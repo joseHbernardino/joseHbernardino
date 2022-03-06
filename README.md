@@ -1,6 +1,8 @@
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=joseHbernardino&color=green)
 
+
+
 <div align="center">
   <a href="https://github.com/joseHbernardino">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joseHbernardino&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -8,8 +10,12 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="ze-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="ze-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="ze-Python" height="30" width="40" src="https://profilinator.rishav.dev/skills-assets/python-original.svg">
+  <img align="center" alt="ze-Linux" height="30" width="40" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg">
+  <img align="center" alt="ze-Bash" height="30" width="40" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg">
+  
+  <img align="center" alt="ze-Wordpress" height="30" width="40" src="https://profilinator.rishav.dev/skills-assets/wordpress.png">
+  <img align="center" alt="ze-Mysql" height="30" width="40" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg">
   <img align="right" alt="ze-pic" height="150" style="border-radius:50px;" src="https://miro.medium.com/max/1400/1*U3WRRwLx3zeDkHmIVGLJdw.gif">
 </div>
   
