@@ -1,36 +1,46 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=header"/>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=joseHbernardino&color=green)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=4500&pause=1000&color=0973F7&center=true&width=1000&lines=Hello%2C+My+Name+Is+Jos%C3%A9+Henrique;I'm+24+Years+Old;I'm+From+Brasil;I+Study+Devops;Be+Welcome!+%3A))](https://git.io/typing-svg)
 
-
-
-<div align="center">
-  <a href="https://github.com/joseHbernardino">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joseHbernardino&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseHbernardino&layout=compact&langs_count=7&theme=dark"/>
-</div>
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="ze-Python" height="30" width="40" src="https://profilinator.rishav.dev/skills-assets/python-original.svg">
-  <img align="center" alt="ze-Linux" height="30" width="40" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg">
-  <img align="center" alt="ze-Bash" height="30" width="40" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg">
-  
-  <img align="center" alt="ze-Wordpress" height="30" width="40" src="https://profilinator.rishav.dev/skills-assets/wordpress.png">
-  <img align="center" alt="ze-Mysql" height="30" width="40" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg">
-  <img align="right" alt="ze-pic" height="150" style="border-radius:50px;" src="https://miro.medium.com/max/1400/1*U3WRRwLx3zeDkHmIVGLJdw.gif">
-</div>
-  
-
-  ----
-## Connect with me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
-  
-  <div>  
-  <a href = "mailto:josehenrique9870@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/bernardino-jose/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/joseHbernardino/joseHbernardino/blob/output/github-contribution-grid-snake.svg)
- 
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=joseHbernardino&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="José Henrique github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=joseHbernardino&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-  <br>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=joseHbernardino&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
 
-<img src="https://i.ibb.co/0MZzJ2d/download.png" border="0">
+  <img src="https://github-profile-trophy.vercel.app/?username=joseHbernardino&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+
+<div align="center"> 
+<a href = "mailto:josehenrique9870@hotmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/bernardino-jose/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+ </div>
+
+### Main skills:
+
+![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=MongoDB&logoColor=blue&labelColor=0D1117)&nbsp;
+![Mysql](https://img.shields.io/badge/-Mysql-0D1117?style=for-the-badge&logo=Mysql&logoColor=blue&labelColor=0D1117)&nbsp;
+![Shell script](https://img.shields.io/badge/-Shell%20script-0D1117?style=for-the-badge&logo=linux&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=Python&labelColor=0D1117)&nbsp;
+
+### Studying skills:
+![Terraform](https://img.shields.io/badge/-Terraform-0D1117?style=for-the-badge&logo=Terraform&logoColor=blue&labelColor=0D1117)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-0D1117?style=for-the-badge&logo=amazonaws&logoColor=blue&labelColor=0D1117)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=Docker&labelColor=0D1117)&nbsp;
+![Ansible](https://img.shields.io/badge/-Ansible-0D1117?style=for-the-badge&logo=Ansible&logoColor=blue&labelColor=0D1117)&nbsp;
+![Prometheus](https://img.shields.io/badge/-Prometheus-0D1117?style=for-the-badge&logo=Prometheus&logoColor=blue&labelColor=0D1117)&nbsp; 
+![Grafana](https://img.shields.io/badge/-Grafana-0D1117?style=for-the-badge&logo=Grafana&logoColor=blue&labelColor=0D1117)&nbsp;
+![Zabbix](https://img.shields.io/badge/-Zabbix-0D1117?style=for-the-badge&logo=Zabbix&logoColor=blue&labelColor=0D1117)&nbsp;
+![Proxmox](https://img.shields.io/badge/-Proxmox-0D1117?style=for-the-badge&logo=Proxmox&logoColor=blue&labelColor=0D1117)&nbsp;
+![VMware](https://img.shields.io/badge/-VMware-0D1117?style=for-the-badge&logo=VMware&logoColor=blue&labelColor=0D1117)&nbsp;
+
+
+
+<div align="center"> 
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{joseHbernardino}/count.svg" /></p> 
+<br></div>
+  
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=footer"/>
