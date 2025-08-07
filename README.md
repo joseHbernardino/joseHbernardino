@@ -1,46 +1,76 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0973F7&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=4500&pause=1000&color=0973F7&center=true&width=1000&lines=Hello%2C+My+Name+Is+Jos%C3%A9+Henrique;I'm+24+Years+Old;I'm+From+Brasil;I+Study+Devops;Be+Welcome!+%3A))](https://git.io/typing-svg)
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=joseHbernardino&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="José Henrique github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=joseHbernardino&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+<div align="center">
+  <h1>👋 Olá, eu sou José Henrique Bernardino</h1>
+  <h3>🚀 DevOps Engineer | Cloud Infrastructure Specialist | Brasil</h3>
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=joseHbernardino&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<p align="center">
+## 💫 Sobre mim
 
-  <img src="https://github-profile-trophy.vercel.app/?username=joseHbernardino&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
+Sou um profissional DevOps apaixonado por automação, infraestrutura como código e tecnologias em nuvem. Com experiência sólida em MongoDB, MySQL, Python e Shell Script, estou sempre buscando otimizar processos e implementar soluções escaláveis.
 
-<div align="center"> 
-<a href = "mailto:josehenrique9870@hotmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/bernardino-jose/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
- </div>
+🎯 **Foco atual:** Especialização em AWS, Terraform, Docker e ferramentas de monitoramento  
+🌱 **Aprendendo:** Kubernetes, CI/CD avançado, Infrastructure as Code  
+💡 **Objetivo:** Contribuir para projetos que impactem positivamente a eficiência operacional  
 
-### Main skills:
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=joseHbernardino&show_icons=true&count_private=true&hide_border=true&title_color=0973F7&icon_color=0973F7&text_color=c9d1d9&bg_color=0d1117" alt="José Henrique github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=joseHbernardino&layout=compact&hide_border=true&title_color=0973F7&text_color=0973F7&bg_color=0d1117" />
+</div>
 
-![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=MongoDB&logoColor=blue&labelColor=0D1117)&nbsp;
-![Mysql](https://img.shields.io/badge/-Mysql-0D1117?style=for-the-badge&logo=Mysql&logoColor=blue&labelColor=0D1117)&nbsp;
-![Shell script](https://img.shields.io/badge/-Shell%20script-0D1117?style=for-the-badge&logo=linux&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=Python&labelColor=0D1117)&nbsp;
+## 🛠️ Stack Tecnológico
 
-### Studying skills:
-![Terraform](https://img.shields.io/badge/-Terraform-0D1117?style=for-the-badge&logo=Terraform&logoColor=blue&labelColor=0D1117)&nbsp;
-![AWS](https://img.shields.io/badge/-AWS-0D1117?style=for-the-badge&logo=amazonaws&logoColor=blue&labelColor=0D1117)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=Docker&labelColor=0D1117)&nbsp;
-![Ansible](https://img.shields.io/badge/-Ansible-0D1117?style=for-the-badge&logo=Ansible&logoColor=blue&labelColor=0D1117)&nbsp;
-![Prometheus](https://img.shields.io/badge/-Prometheus-0D1117?style=for-the-badge&logo=Prometheus&logoColor=blue&labelColor=0D1117)&nbsp; 
-![Grafana](https://img.shields.io/badge/-Grafana-0D1117?style=for-the-badge&logo=Grafana&logoColor=blue&labelColor=0D1117)&nbsp;
-![Zabbix](https://img.shields.io/badge/-Zabbix-0D1117?style=for-the-badge&logo=Zabbix&logoColor=blue&labelColor=0D1117)&nbsp;
-![Proxmox](https://img.shields.io/badge/-Proxmox-0D1117?style=for-the-badge&logo=Proxmox&logoColor=blue&labelColor=0D1117)&nbsp;
-![VMware](https://img.shields.io/badge/-VMware-0D1117?style=for-the-badge&logo=VMware&logoColor=blue&labelColor=0D1117)&nbsp;
+### 💼 Tecnologias Principais
+<div>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+</div>
 
+### 🚀 DevOps & Cloud (Em Desenvolvimento)
+<div>
+  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"/>
+</div>
 
+### 📊 Monitoramento & Virtualização
+<div>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
+  <img src="https://img.shields.io/badge/Zabbix-CC2936?style=for-the-badge&logo=zabbix&logoColor=white" alt="Zabbix"/>
+  <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox"/>
+  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware"/>
+</div>
 
-<div align="center"> 
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{joseHbernardino}/count.svg" /></p> 
-<br></div>
-  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=footer"/>
+## 📈 GitHub Analytics
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=joseHbernardino&theme=tokyo-night&hide_border=true&bg_color=0D1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=joseHbernardino&theme=nord&no-frame=true&no-bg=false&margin-w=4&column=7" />
+</div>
+
+## 🤝 Vamos Conectar?
+
+<div align="center">
+  <a href="mailto:josehenrique9870@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/bernardino-jose/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/joseHbernardino" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=joseHbernardino&color=0973F7&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0973F7&height=120&section=footer"/>
